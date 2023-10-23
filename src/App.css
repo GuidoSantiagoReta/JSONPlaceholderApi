@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+h1{
+  text-align: center;
+  padding-top: 10px;
+  color: rgb(104, 103, 103);
+  
+}
+ul{
+  text-align: center;
+  list-style: none;
+  padding-top:50px;
+  
+
+}
+li{
+  text-decoration: none;
+color: #282c34;
+}
